@@ -64,7 +64,6 @@ class NetworkTrafficAnalysis:
         plt.grid(True)
         plt.show()
 
-# Ejemplo de uso en la vida real
 response_times = [
     [0, 100, 150, 90],
     [100, 0, 160, 120],
